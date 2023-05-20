@@ -1,8 +1,8 @@
 # ADS4
 # Assignment 4 Defence
-## Resize Method [(source)](https://github.com/Baibola7/ADS4/blob/master/ADS4/src/MyHashTable.java)
+### Resize Method [(source)](https://github.com/Baibola7/ADS4/blob/master/ADS4/src/MyHashTable.java)
 # Assignment 4 Documentation
-Welcome to my respository, which I created due to ADS lessons. Here you can easily find some tasks with their explanations. Hope you like it🤙
+Welcome to my respository, which I created due to ADS lessons. Here you can easily find some tasks with their explanations. Hope you like it
 ### Hash
  This is a function that takes a key and returns an index into the array that represents the hashtable. The goal of a good hash function is to evenly distribute the keys across the array to minimize collisions.
 ```java
